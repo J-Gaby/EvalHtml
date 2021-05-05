@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#corp{
+    padding: 5vw;
+}
+
+footer{
+    background-color: #FF8333;
+    color:white;
+    display: flex;
+    justify-content: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+footer p{
+    padding: 1vw;
+}
